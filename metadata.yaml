@@ -1,5 +1,5 @@
 homepage: "https://cookie-script.com"
 documentation: "https://support.cookie-script.com/article/111-how-to-block-tags-with-cookiescript-consent-state-variable"
 versions:
-  - sha: 77b370e5c1eae9e1895953ce6c45afad4cb3c846
+  - sha: 033da2dc63e0d728b9c20302beff7889f670bae7
     changeNotes: Initial release.
